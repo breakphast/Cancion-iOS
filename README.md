@@ -1,4 +1,4 @@
-# Canción - Smart Playlist Generator
+# Canción - Smart Playlist Generator <img src="https://github.com/breakphast/Cancion-iOS/assets/59259755/0bb8e10f-228b-4b38-a85e-780d2e26a779" width="40" alt="Logo">
 
 ## Discover Your Music in a Whole New Way with Cancion
 
@@ -11,6 +11,7 @@ Cancion reimagines your Apple Music experience, introducing a world where your m
 
 ### Features at a Glance
 
+https://github.com/breakphast/Cancion-iOS/assets/59259755/0bb8e10f-228b-4b38-a85e-780d2e26a779
 - 🎵 **Dynamic Playlists:** Tailored musical journeys based on your taste, mood, and listening habits.
 - 🎛 **Intuitive Player:** A seamless experience with a randomized queue of your songs, detailed song information, and easy controls.
 - 📊 **Songs List:** Explore and organize your music collection with flexible sorting options.
